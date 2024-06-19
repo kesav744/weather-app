@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,26 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+
+
+
+
+
+
+.favorites {
+  margin-top: 20px;
+}
+
+.favorites ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.favorites li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
 }

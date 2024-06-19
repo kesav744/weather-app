@@ -1,0 +1,14 @@
+.reuse-btn {
+    background-color: brown;
+    padding: 0.5rem 1rem;
+    color: white;
+    border: 1px solid brown;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: "Poppins";
+    font-weight: 500;
+}
+
+.reuse-btn:hover {
+    background-color: rgb(216, 104, 0);
+}

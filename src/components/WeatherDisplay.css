@@ -1,0 +1,24 @@
+.weather-display {
+    text-align: center;
+  }
+  
+  .forecast {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .addfav {
+    margin-left: 7px;
+  }
+
+  @media only screen and (max-width: 359px) {
+    .addfav {
+        margin-top: 7px;
+      }
+  }
+
+  @media only screen and (max-width: 666px) {
+    .forecast {
+        flex-direction: column;
+      }
+  }

@@ -1,0 +1,24 @@
+.search {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+/* .search input {
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-family: "Poppins";
+    font-weight: 400;
+    border: 1px solid;    
+} */
+.searchtf{
+  background-color: black;
+}
+.suggest {
+  position: relative;
+  top: 40px;
+  right: 190px;
+  background-color: #cccccc96;
+  padding: 0.4rem 0.6rem;
+  border-radius: 5px;
+}
